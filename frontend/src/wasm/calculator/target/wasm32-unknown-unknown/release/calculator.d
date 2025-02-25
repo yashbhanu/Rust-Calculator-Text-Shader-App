@@ -1,0 +1,1 @@
+C:\Users\Yash\ Bhanushali\Desktop\Projects\Assignment_Rust_Elixir\frontend\src\wasm\calculator\target\wasm32-unknown-unknown\release\calculator.wasm: C:\Users\Yash\ Bhanushali\Desktop\Projects\Assignment_Rust_Elixir\frontend\src\wasm\calculator\src\lib.rs
